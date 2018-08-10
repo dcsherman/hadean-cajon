@@ -1,2 +1,3 @@
 # hadean-cajon
-search and display WikiPedia with "API" extracts
+Using the 'extracts' property of the Wikipedia API to fetch contents from the website based on keywords. Search for certain terms and display the results.
+
